@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "SnipeWork Upwork Market Index — Weekly Freelance Market Dataset"
+message: "If you use this dataset, please cite it and link to the source."
+type: dataset
+authors:
+  - name: "SnipeWork"
+    website: "https://snipework.com"
+url: "https://snipework.com/market/index"
+repository-code: "https://github.com/YOUR_GH_USERNAME/upwork-market-data"
+abstract: >-
+  A continuously-updated open dataset of the Upwork freelance job market,
+  computed weekly from thousands of live Upwork job posts via the official
+  Upwork API. Includes average and median fixed-price budgets, hourly rates,
+  category demand across 12 categories, and top client countries.
+keywords:
+  - upwork
+  - freelancing
+  - gig economy
+  - freelance market
+  - labor market data
+  - hourly rates
+license: CC-BY-4.0
