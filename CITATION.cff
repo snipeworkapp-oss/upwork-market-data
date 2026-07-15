@@ -6,7 +6,7 @@ authors:
   - name: "SnipeWork"
     website: "https://snipework.com"
 url: "https://snipework.com/market/index"
-repository-code: "https://github.com/YOUR_GH_USERNAME/upwork-market-data"
+repository-code: "https://github.com/snipeworkapp-oss/upwork-market-data"
 abstract: >-
   A continuously-updated open dataset of the Upwork freelance job market,
   computed weekly from thousands of live Upwork job posts via the official

@@ -5,7 +5,7 @@
 
 import pandas as pd
 
-BASE = "https://raw.githubusercontent.com/YOUR_GH_USERNAME/upwork-market-data/main/data"
+BASE = "https://raw.githubusercontent.com/snipeworkapp-oss/upwork-market-data/main/data"
 
 weekly = pd.read_csv(f"{BASE}/weekly.csv")
 categories = pd.read_csv(f"{BASE}/categories.csv")

@@ -44,7 +44,7 @@ All files are updated automatically every Monday via GitHub Actions.
 import pandas as pd
 
 weekly = pd.read_csv(
-    "https://raw.githubusercontent.com/YOUR_GH_USERNAME/upwork-market-data/main/data/weekly.csv"
+    "https://raw.githubusercontent.com/snipeworkapp-oss/upwork-market-data/main/data/weekly.csv"
 )
 print(weekly.tail())
 
@@ -55,7 +55,7 @@ weekly.plot(x="week", y="avg_fixed_usd", title="Upwork avg fixed budget by week"
 ### JavaScript
 ```js
 const res = await fetch(
-  "https://raw.githubusercontent.com/YOUR_GH_USERNAME/upwork-market-data/main/data/weekly.csv"
+  "https://raw.githubusercontent.com/snipeworkapp-oss/upwork-market-data/main/data/weekly.csv"
 );
 const csv = await res.text();
 console.log(csv);
