@@ -1,3 +1,3 @@
 week,period_start,period_end,jobs_scanned,avg_fixed_usd,median_fixed_usd,avg_hourly_usd,fixed_share,hourly_share,entry_share,intermediate_share,expert_share,is_partial
 2026-W28,2026-07-06,2026-07-13,13803,513,100,23,0.448,0.552,0.074,0.677,0.249,0
-2026-W29,2026-07-13,2026-07-20,7324,593,100,23,0.426,0.574,0.064,0.696,0.24,1
+2026-W29,2026-07-13,2026-07-20,19516,642,100,23,0.444,0.556,0.068,0.689,0.243,1
