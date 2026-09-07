@@ -83,15 +83,27 @@ week,period_start,category,category_slug,jobs,share,avg_fixed_usd,median_fixed_u
 2026-W34,2026-08-17,Customer Service,customer-service,229,0.016,381,50,12
 2026-W34,2026-08-17,Legal,legal,186,0.013,753,160,56
 2026-W34,2026-08-17,Translation,translation,166,0.012,467,33,16
-2026-W35,2026-08-24,Design & Creative,design-creative,5210,0.289,421,90,23
-2026-W35,2026-08-24,Sales & Marketing,sales-marketing,4202,0.233,711,100,20
-2026-W35,2026-08-24,"Web, Mobile & Software Dev",web-mobile-software-dev,3475,0.193,653,100,27
-2026-W35,2026-08-24,Admin Support,admin-support,1348,0.075,601,50,12
-2026-W35,2026-08-24,Engineering & Architecture,engineering-architecture,915,0.051,408,150,26
-2026-W35,2026-08-24,Accounting & Consulting,accounting-consulting,720,0.04,1866,100,25
-2026-W35,2026-08-24,Data Science & Analytics,data-science-analytics,513,0.029,900,100,30
-2026-W35,2026-08-24,Writing,writing,497,0.028,406,100,29
-2026-W35,2026-08-24,IT & Networking,it-networking,338,0.019,2494,150,37
-2026-W35,2026-08-24,Customer Service,customer-service,295,0.016,293,50,12
-2026-W35,2026-08-24,Translation,translation,249,0.014,238,45,18
-2026-W35,2026-08-24,Legal,legal,236,0.013,311,150,52
+2026-W35,2026-08-24,Design & Creative,design-creative,4396,0.292,420,80,23
+2026-W35,2026-08-24,Sales & Marketing,sales-marketing,3485,0.231,652,103,20
+2026-W35,2026-08-24,"Web, Mobile & Software Dev",web-mobile-software-dev,2880,0.191,646,100,27
+2026-W35,2026-08-24,Admin Support,admin-support,1125,0.075,665,50,12
+2026-W35,2026-08-24,Engineering & Architecture,engineering-architecture,767,0.051,411,150,25
+2026-W35,2026-08-24,Accounting & Consulting,accounting-consulting,601,0.04,2183,100,24
+2026-W35,2026-08-24,Data Science & Analytics,data-science-analytics,438,0.029,997,100,29
+2026-W35,2026-08-24,Writing,writing,430,0.029,412,100,30
+2026-W35,2026-08-24,IT & Networking,it-networking,280,0.019,2827,150,39
+2026-W35,2026-08-24,Customer Service,customer-service,247,0.016,302,50,12
+2026-W35,2026-08-24,Translation,translation,215,0.014,251,43,18
+2026-W35,2026-08-24,Legal,legal,190,0.013,335,200,52
+2026-W36,2026-08-31,Design & Creative,design-creative,5328,0.286,434,80,23
+2026-W36,2026-08-31,Sales & Marketing,sales-marketing,4311,0.232,1427,100,20
+2026-W36,2026-08-31,"Web, Mobile & Software Dev",web-mobile-software-dev,3509,0.188,1088,110,27
+2026-W36,2026-08-31,Admin Support,admin-support,1397,0.075,265,50,12
+2026-W36,2026-08-31,Engineering & Architecture,engineering-architecture,989,0.053,644,125,23
+2026-W36,2026-08-31,Accounting & Consulting,accounting-consulting,789,0.042,370,132,24
+2026-W36,2026-08-31,Data Science & Analytics,data-science-analytics,535,0.029,831,100,32
+2026-W36,2026-08-31,Writing,writing,534,0.029,450,100,29
+2026-W36,2026-08-31,IT & Networking,it-networking,369,0.02,558,103,36
+2026-W36,2026-08-31,Customer Service,customer-service,348,0.019,242,40,11
+2026-W36,2026-08-31,Legal,legal,286,0.015,565,200,60
+2026-W36,2026-08-31,Translation,translation,225,0.012,599,50,19
