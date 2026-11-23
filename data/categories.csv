@@ -227,3 +227,15 @@ week,period_start,category,category_slug,jobs,share,avg_fixed_usd,median_fixed_u
 2026-W46,2026-11-09,Translation,translation,449,0.022,238,45,21
 2026-W46,2026-11-09,IT & Networking,it-networking,388,0.019,659,200,36
 2026-W46,2026-11-09,Legal,legal,340,0.016,454,200,63
+2026-W47,2026-11-16,Design & Creative,design-creative,5515,0.28,519,75,24
+2026-W47,2026-11-16,Sales & Marketing,sales-marketing,4632,0.235,825,150,20
+2026-W47,2026-11-16,"Web, Mobile & Software Dev",web-mobile-software-dev,3042,0.155,1371,120,29
+2026-W47,2026-11-16,Admin Support,admin-support,1698,0.086,637,50,15
+2026-W47,2026-11-16,Engineering & Architecture,engineering-architecture,963,0.049,1467,150,26
+2026-W47,2026-11-16,Accounting & Consulting,accounting-consulting,922,0.047,556,125,27
+2026-W47,2026-11-16,Writing,writing,704,0.036,515,100,31
+2026-W47,2026-11-16,Translation,translation,505,0.026,269,25,22
+2026-W47,2026-11-16,Customer Service,customer-service,475,0.024,248,40,13
+2026-W47,2026-11-16,Data Science & Analytics,data-science-analytics,473,0.024,776,100,35
+2026-W47,2026-11-16,IT & Networking,it-networking,394,0.02,4589,250,38
+2026-W47,2026-11-16,Legal,legal,366,0.019,660,250,59
